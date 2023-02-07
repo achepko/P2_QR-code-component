@@ -1,0 +1,21 @@
+@media  screen and (max-width: 375px) {
+    .container{
+        flex-direction: column;
+        margin: 30px;
+        padding: 0;
+    }
+    .photo{
+        height: 270px;
+        width: 100%;
+    }
+    img{
+        object-fit: cover;
+        height: 290px;
+        width: 100%;
+    }
+    .info{
+        padding: 24px;
+        height: 60%;
+        width: 100%;
+    }
+}
