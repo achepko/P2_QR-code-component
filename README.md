@@ -1,10 +1,10 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component solution challenge on Frontend Mentor.](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+This is a solution to the [QR code component solution challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## Table of contents
 
-- [Frontend Mentor - QR code component solution](#frontend-mentor---product-preview-card-component-solution)
+- [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/achepko/P1-product-preview-card-component)
+- Solution URL: [Solution](https://github.com/achepko/P2_QR-code-component)
 - Live Site URL: [Live](https://achepko.github.io/P1-product-preview-card-component/)
 
 ## My process
