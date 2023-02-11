@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/achepko/P2_QR-code-component)
-- Live Site URL: [Live](https://achepko.github.io/P1-product-preview-card-component/)
+- Live Site URL: [Live](https://achepko.github.io/P2_QR-code-component/)
 
 ## My process
 
@@ -44,19 +44,9 @@ Users should be able to:
 - Flexbox
 - IntelliJ IDEA 2022.3
 
-### What I learned
-
-I learned how to change icon of tab in browser.
-```html
-
-<link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-
-```
-
 ### Useful resources
 
 - [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) - Basic concepts of flexbox
-- [Favicon](https://developer.mozilla.org/en-US/docs/Glossary/Favicon) - Information of favicon
 
 ## Author
 - Frontend Mentor - [@achepko](https://www.frontendmentor.io/profile/achepko)
